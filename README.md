@@ -14,5 +14,9 @@ https://en.wikipedia.org/wiki/List_of_neuroscientists
 
 Le fichier `neuroscientifiques.csv` contient les noms des neuroscientifiques et les informations associées, telles que leurs dates de naissance et de décès, leur nationalité et leurs distinctions.
 
+## Problématique et questionnement
+
+## Catalogue des informations
+
 
 
