@@ -1,0 +1,132 @@
+<mxfile host="65bd71144e">
+    <diagram id="9pVQjw2vZE54IaHrLH7T" name="Page-1">
+        <mxGraphModel dx="1166" dy="200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-8" edge="1" parent="1" style="edgeStyle=none;html=1;strokeWidth=2;endArrow=classic;endFill=1;rounded=1;curved=0;">
+                    <mxGeometry relative="1" x="0.005" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-200" y="1080"/>
+                        </Array>
+                        <mxPoint x="-200" y="620" as="sourcePoint"/>
+                        <mxPoint x="-122.7" y="1080" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-10" connectable="0" parent="A-QlP1Ab-0-W9-cGx4wO-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;est né dans&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.2704" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-26" edge="1" parent="1" source="A-QlP1Ab-0-W9-cGx4wO-1" style="edgeStyle=none;html=1;strokeWidth=2;entryX=0.702;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.255;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;">
+                    <mxGeometry relative="1" x="-0.0231" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-515.16" y="720"/>
+                        </Array>
+                        <mxPoint x="-515.16" y="610" as="sourcePoint"/>
+                        <mxPoint x="-515.1600000000001" y="729.9999999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-27" connectable="0" parent="A-QlP1Ab-0-W9-cGx4wO-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;est spécialisé dans&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.0231" y="5" as="geometry">
+                        <mxPoint x="-8" y="5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;h4&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;PERSONNE (NEUROSCIENTIFIQUE)&lt;/font&gt;&lt;/h4&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Nom et prénom&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Genre&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Date de naissance&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Date de décès&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Lieu de naissance&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Nationalité&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Origine sociale&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Formation académique&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Domaine de spécialisation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Période d&#39;activité scientifique&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Profession et fonctions occupées&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="530" width="690" x="-690" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-3" edge="1" parent="1" source="A-QlP1Ab-0-W9-cGx4wO-2" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A-QlP1Ab-0-W9-cGx4wO-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-9" edge="1" parent="1" style="edgeStyle=none;html=1;strokeWidth=2;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="A-QlP1Ab-0-W9-cGx4wO-7">
+                    <mxGeometry relative="1" x="0.0326" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="442.5" y="620"/>
+                            <mxPoint x="440" y="690"/>
+                            <mxPoint x="440" y="1127.5"/>
+                        </Array>
+                        <mxPoint x="442.5" y="610" as="sourcePoint"/>
+                        <mxPoint x="350" y="830" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-11" connectable="0" parent="A-QlP1Ab-0-W9-cGx4wO-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;est situé dans&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.5219" y="-3" as="geometry">
+                        <mxPoint x="3" y="-37" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;ORGANISATION&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; style=&quot;background-color: rgb(255, 255, 255);&quot; face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; style=&quot;background-color: rgb(255, 255, 255);&quot; face=&quot;Times New Roman&quot;&gt;Nom&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; style=&quot;background-color: rgb(255, 255, 255);&quot; face=&quot;Times New Roman&quot;&gt;Type (université, laboratoire, institut, etc.)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; style=&quot;background-color: rgb(255, 255, 255);&quot; face=&quot;Times New Roman&quot;&gt;Siège géographique&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; style=&quot;background-color: rgb(255, 255, 255);&quot; face=&quot;Times New Roman&quot;&gt;Date de fondation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; style=&quot;background-color: rgb(255, 255, 255);&quot; face=&quot;Times New Roman&quot;&gt;Domaine de recherche&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; style=&quot;background-color: rgb(255, 255, 255);&quot; face=&quot;Times New Roman&quot;&gt;Statut (public ou privé)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; style=&quot;background-color: rgb(255, 255, 255);&quot; face=&quot;Times New Roman&quot;&gt;Période d&#39;activité&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="520" width="500" x="200" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-5" edge="1" parent="1" source="A-QlP1Ab-0-W9-cGx4wO-1" style="edgeStyle=none;html=1;exitX=0.999;exitY=0.491;exitDx=0;exitDy=0;strokeWidth=2;endArrow=classic;endFill=1;exitPerimeter=0;" target="A-QlP1Ab-0-W9-cGx4wO-2">
+                    <mxGeometry relative="1" x="0.0557" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="100" y="340"/>
+                            <mxPoint x="182.94" y="340"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-6" connectable="0" parent="A-QlP1Ab-0-W9-cGx4wO-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;est membre de&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.0458" y="3" as="geometry">
+                        <mxPoint x="-15" y="-19" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;LIEU&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;Nom&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;Type (ville, pays, région, etc.)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;Pays&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;Coordonnées géographiques&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;Période historique concernée&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="430" width="450" x="-120" y="1020" as="geometry"/>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-28" edge="1" parent="1" source="A-QlP1Ab-0-W9-cGx4wO-15" style="edgeStyle=none;html=1;exitX=-0.009;exitY=0.804;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitPerimeter=0;" target="A-QlP1Ab-0-W9-cGx4wO-25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-29" connectable="0" parent="A-QlP1Ab-0-W9-cGx4wO-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;appartient à&amp;nbsp;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.5624" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ŒUVRE SCIENTIFIQUE&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Titre&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Référence bibliographique&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Type (article, ouvrage, thèse, etc.)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Année de publication&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Lieu de publication&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Domaine scientifique&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Revue ou maison d&#39;édition&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Nombre de citations&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="260" width="330" x="-30" y="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-16" edge="1" parent="1" source="A-QlP1Ab-0-W9-cGx4wO-1" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.09;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="A-QlP1Ab-0-W9-cGx4wO-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-18" connectable="0" parent="A-QlP1Ab-0-W9-cGx4wO-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;est auteur.ice de&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.0684" as="geometry">
+                        <mxPoint x="50" y="-3" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-20" edge="1" parent="1" source="A-QlP1Ab-0-W9-cGx4wO-15" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1.002;entryY=0.801;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="A-QlP1Ab-0-W9-cGx4wO-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-21" connectable="0" parent="A-QlP1Ab-0-W9-cGx4wO-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;est publié par&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.0636" y="1" as="geometry">
+                        <mxPoint x="41" y="12" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-23" edge="1" parent="1" source="A-QlP1Ab-0-W9-cGx4wO-15" style="edgeStyle=none;html=1;exitX=0.499;exitY=0.998;exitDx=0;exitDy=0;entryX=0.565;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitPerimeter=0;" target="A-QlP1Ab-0-W9-cGx4wO-7">
+                    <mxGeometry relative="1" x="-0.0001" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="134.25" y="970"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-24" connectable="0" parent="A-QlP1Ab-0-W9-cGx4wO-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;a pour lieu de publication&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.0251" y="-1" as="geometry">
+                        <mxPoint x="77" y="-9" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="f3vUwaZ0IKBeC-sFhnWE-1" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1.005;entryY=0.948;entryDx=0;entryDy=0;entryPerimeter=0;innerLoopWaypoints=1;strokeWidth=2;">
+                    <mxGeometry relative="1" x="-0.286" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-390" y="940"/>
+                            <mxPoint x="-310" y="940"/>
+                            <mxPoint x="-310" y="1038.4"/>
+                        </Array>
+                        <mxPoint x="-390" y="975" as="sourcePoint"/>
+                        <mxPoint x="-387.9" y="1038.36" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="A-QlP1Ab-0-W9-cGx4wO-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DOMAINE DE RECHERCHE&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Nom&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Description&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Période d&#39;émergence&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Méthodes de recherche associées&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;Disciplines connexes&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="320" width="420" x="-810" y="730" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
